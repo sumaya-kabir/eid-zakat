@@ -11,3 +11,34 @@ body {
     margin: 0;
     min-height: 100vh;
 }
+
+.hero-section {
+    background-image: 
+    linear-gradient(to left, rgba(255, 255, 255, 0.144),rgba(0, 0, 0, 0.836)),
+    url(images/eid-zakat-hero.png);
+    background-size: cover;
+    color: #fff;
+    padding: 100px;
+}
+
+.hero-text {
+    margin: 100px;
+    width: 50%;
+}
+
+.hero-text h1 {
+    font-size: 55px;
+    margin: 0;
+}
+
+.hero-text p {
+    line-height: 1.5rem;
+}
+
+button {
+    background-color: #EF233C;
+    color: #fff;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+}
