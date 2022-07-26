@@ -1,0 +1,22 @@
+.navbar-bg {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.banner-bg {
+    background: #FFF9F4;
+}
+
+.h1-color {
+    color: #FA804C;
+}
+
+.btn-bg {
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+}
+
+/* casuel shoes styles */
+.shoe-bg {
+    background: #F1F1F1;
+    border-radius: 20px;
+}
